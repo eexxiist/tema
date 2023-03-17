@@ -1330,7 +1330,7 @@ body{
 @media (max-width: 540px){
 
 body{
-  background-image: url('../images/background_mobile.png');
+  background-image: url('./images/background_mobile.png');
   background-repeat: no-repeat;
   background-position: center top 190px;
   background-size: contain;
